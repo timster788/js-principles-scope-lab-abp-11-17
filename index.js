@@ -7,5 +7,5 @@ var customerName ="bob"
     bestCustomer = "not bob";
   }
    function overwriteBestCustomer(){
-     overwriteBestCustomer = "maybe bob";
+     bestCustomer = "maybe bob";
    }
