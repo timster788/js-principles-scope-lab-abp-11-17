@@ -6,3 +6,6 @@ var customerName ="bob"
   function setBestCustomer(){
     bestCustomer = "not bob"
   }
+   function overwriteBestCustomer(){
+     overwriteBestCustomer = "maybe bob"
+   }
